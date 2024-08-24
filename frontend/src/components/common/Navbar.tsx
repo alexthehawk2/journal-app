@@ -14,7 +14,7 @@ export default function Nav() {
                         alt="Flowbite React Logo"
                     />
                     <span className="self-center whitespace-nowrap text-xl font-semibold text-white">
-                        Flowbite React
+                        Abir's Journal
                     </span>
                 </Navbar.Brand>
             </Link>
