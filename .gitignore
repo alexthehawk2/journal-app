@@ -19,3 +19,4 @@ yarn-error.log
 /.idea
 /.vscode
 /frontend/package-lock.json
+/frontend/yarn.lock
