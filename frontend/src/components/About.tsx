@@ -5,7 +5,8 @@ const About: React.FC = () => {
         <main className="px-2 md:px-6 lg:px-10 py-8 flex justify-center items-center">
             <div>
                 <img
-                    src="public/images/abir-dey-photo.jpg"
+                    // src="public/images/abir-dey-photo.jpg"
+                    src="https://placehold.co/300x380"
                     alt="abir-dey-photo"
                     height={300}
                     width={300}
